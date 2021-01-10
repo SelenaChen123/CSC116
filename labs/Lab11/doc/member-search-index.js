@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"AllDigitsOdd","l":"AllDigitsOdd()"},{"p":"<Unnamed>","c":"AllDigitsOdd","l":"areAllDigitsOdd(int)"},{"p":"<Unnamed>","c":"AllDigitsOdd","l":"lastDigit(int)"},{"p":"<Unnamed>","c":"AllDigitsOdd","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"<Unnamed>","c":"AllDigitsOdd","l":"withoutLastDigit(int)"}]
